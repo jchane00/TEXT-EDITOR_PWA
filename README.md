@@ -9,7 +9,6 @@ This app is used so that you can type out what you want into the browser and hav
 - [Description](#Description)
 - [Technologies](#Technologies)
 - [Links](#Links)
-- [Screenshot](#Screenshot)
 
 ## Technologies
 
