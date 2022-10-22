@@ -30,11 +30,9 @@ This app is used so that you can type out what you want into the browser and hav
 
 ## Link
 App link
-https://github.com/TempleKramer/Fitness-App
+https://pwachallenge1.herokuapp.com/
 
 
 
 
-## Screenshot 
-![Project Image]()
 
