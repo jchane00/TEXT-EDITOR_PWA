@@ -17,11 +17,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "if-env": "^1.0.4",
-    "rimraf": "^3.0.2",
-    "webpack": "^5.74.0"
+    "rimraf": "^3.0.2"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
